@@ -1,2 +1,0 @@
-# common-data
-common dependencies
